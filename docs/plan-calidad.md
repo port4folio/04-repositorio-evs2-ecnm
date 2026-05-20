@@ -32,6 +32,9 @@ Responsable de revisar funcionalidades, detectar errores y validar el correcto f
 
 ## 3. Atributos de calidad
 
+### Funcionalidad
+El sistema debe cumplir correctamente con los requerimientos definidos por el equipo.
+
 ### Usabilidad
 El sistema debe ser fácil de utilizar y comprender por los usuarios.
 
@@ -47,6 +50,9 @@ El sistema debe responder correctamente y optimizar el uso de recursos.
 ### Seguridad
 Se deben proteger los datos y controlar adecuadamente los accesos al sistema.
 
+### Compatibilidad
+El sistema debe poder funcionar correctamente en el entorno definido para el proyecto.
+
 ---
 
 ## 4. Modelos de calidad aplicados
@@ -54,11 +60,14 @@ Se deben proteger los datos y controlar adecuadamente los accesos al sistema.
 ### ISO/IEC 25010
 Se utilizará como modelo principal para evaluar atributos de calidad como mantenibilidad, funcionalidad, seguridad y eficiencia.
 
-### IEEE 730
-Se aplicará como guía para la elaboración del plan de aseguramiento de calidad del proyecto.
+### Aplicación de ISO/IEC 25010
+Este modelo permite organizar los atributos de calidad del software, considerando aspectos como usabilidad, seguridad, mantenibilidad y eficiencia.
 
-### CMMI
-Se utilizará como referencia para mejorar la madurez y organización de los procesos de desarrollo.
+### Aplicación de IEEE 730
+IEEE 730 se utiliza como referencia para estructurar el plan de aseguramiento de calidad, estableciendo actividades, responsabilidades y métodos de control.
+
+### Aplicación de CMMI
+CMMI se considera como apoyo para mejorar la organización de procesos y promover buenas prácticas de desarrollo.
 
 ---
 
