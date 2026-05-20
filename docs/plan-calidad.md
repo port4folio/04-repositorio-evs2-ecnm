@@ -84,6 +84,13 @@ Las métricas utilizadas serán:
 - Número de pull requests aprobados.
 - Cumplimiento de historias de usuario.
 
+### Cumplimiento de sprint
+Se medirá el porcentaje de tareas finalizadas dentro del sprint planificado.
+
+### Revisión de pull requests
+Se controlará que cada cambio importante sea integrado mediante pull request.
+
+
 ---
 
 ## 7. Estándares de trabajo
@@ -108,6 +115,13 @@ El proceso de control de cambios será el siguiente:
 4. Implementación en una rama independiente.
 5. Revisión mediante pull request.
 6. Validación final e integración al proyecto.
+
+### Registro de cambios
+Cada modificación deberá quedar respaldada mediante commits descriptivos y tareas asociadas en Jira.
+
+### Flujo de control de cambios
+Todo cambio debe ser solicitado, evaluado, aprobado, implementado en una rama independiente y validado antes de su integración.
+
 
 Jira permitirá registrar y controlar las tareas, mientras que GitHub permitirá administrar versiones y cambios del sistema.
 
