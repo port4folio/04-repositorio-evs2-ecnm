@@ -28,6 +28,13 @@ Encargados de implementar funcionalidades, realizar commits y trabajar en ramas 
 ### Analista de pruebas
 Responsable de revisar funcionalidades, detectar errores y validar el correcto funcionamiento del sistema.
 
+### Encargada de roles y responsabilidades
+Responsable de identificar y documentar las funciones principales de cada integrante dentro del proyecto.
+
+### Responsabilidades del equipo
+Cada integrante debe cumplir con las tareas asignadas en Jira, realizar commits en GitHub y participar en la revisión del plan de calidad.
+
+
 ---
 
 ## 3. Atributos de calidad
