@@ -53,6 +53,22 @@ Se deben proteger los datos y controlar adecuadamente los accesos al sistema.
 ### Compatibilidad
 El sistema debe poder funcionar correctamente en el entorno definido para el proyecto.
 
+### Funcionalidad
+El sistema debe cumplir correctamente con los requerimientos definidos por el equipo.
+
+### Compatibilidad
+El sistema debe poder funcionar correctamente en el entorno definido para el proyecto.
+
+### Aplicación de ISO/IEC 25010
+Este modelo permite organizar los atributos de calidad del software, considerando aspectos como usabilidad, seguridad, mantenibilidad y eficiencia.
+
+### Aplicación de IEEE 730
+IEEE 730 se utiliza como referencia para estructurar el plan de aseguramiento de calidad, estableciendo actividades, responsabilidades y métodos de control.
+
+### Aplicación de CMMI
+CMMI se considera como apoyo para mejorar la organización de procesos y promover buenas prácticas de desarrollo.
+
+
 ---
 
 ## 4. Modelos de calidad aplicados
